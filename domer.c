@@ -1,7 +1,6 @@
 
 //Domer_v2.0
 //SRMC regular potential
-//Ziwei Guo  Feb-22-2016
 
 
 #include <stdio.h>
